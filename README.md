@@ -14,9 +14,9 @@ BrightTV's CEO wants to grow the subscription base this financial year and asked
 
 Built in Looker Studio, using a cleaned version of BrightTV's raw session-level viewership data (10,989 sessions, 5,375 unique viewers).
 
-**[View the live dashboard →](#)** *(add your Looker Studio share link here)*
 
-![Dashboard screenshot](dashboard/screenshot.png)
+
+![Dashboard screenshot]
 
 ### What it covers
 - **KPIs:** total viewing records, unique viewers, average watch duration, total watch time
