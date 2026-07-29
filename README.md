@@ -12,11 +12,15 @@ BrightTV's CEO wants to grow the subscription base this financial year and asked
 
 ## 📊 Dashboard
 
-Built in Looker Studio, using a cleaned version of BrightTV's raw session-level viewership data (10,989 sessions, 5,375 unique viewers).
+Built in Power BI Desktop, using a cleaned version of BrightTV's raw
+session-level viewership data (10,989 sessions, 5,375 unique viewers).
+
+*Note: built with Power BI Desktop only (no Pro/web license), so there's
+no live shareable link — screenshot below.*
 
 
 
-![Dashboard screenshot]
+![Dashboard screenshot](dashboard/Bright_TV_Viewership_Dashboard.png)
 
 ### What it covers
 - **KPIs:** total viewing records, unique viewers, average watch duration, total watch time
@@ -62,7 +66,7 @@ Specific fixes made along the way:
 ## 🛠️ Tools Used
 
 - **SQL** — data cleaning (null handling, field standardization)
-- **Looker Studio** — dashboard build, filtering, and visualization
+- - **Power BI Desktop** — dashboard build, filtering, and visualization
 - **Miro** — project mind map
 - **Canva** — Gantt chart / project planning visuals
 - **PowerPoint** — stakeholder presentation deck
