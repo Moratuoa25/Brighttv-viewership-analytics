@@ -66,7 +66,7 @@ Specific fixes made along the way:
 ## 🛠️ Tools Used
 
 - **SQL** — data cleaning (null handling, field standardization)
-- - **Power BI Desktop** — dashboard build, filtering, and visualization
+- **Power BI Desktop** — dashboard build, filtering, and visualization
 - **Miro** — project mind map
 - **Canva** — Gantt chart / project planning visuals
 - **PowerPoint** — stakeholder presentation deck
